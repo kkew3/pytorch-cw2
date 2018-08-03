@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is a _rich-documented_ [PyTorch](https://pytorch.org/) implementation of [Carlini-Wanger's L2 attack](https://arxiv.org/abs/1608.04644).  The main reason to develop this respository is to make it easier to do research using the attach technique.  Another implementation in PyTorch is [rwightman/pytorch-nips2017-attack-example](https://github.com/rwightman/pytorch-nips2017-attack-example.git).  However, the author failed to reproduce the result presented in the original paper.
+This is a _rich-documented_ [PyTorch](https://pytorch.org/) implementation of [Carlini-Wanger's L2 attack](https://arxiv.org/abs/1608.04644).  The main reason to develop this respository is to make it easier to do research using the attach technique.  Another implementation in PyTorch is [rwightman/pytorch-nips2017-attack-example](https://github.com/rwightman/pytorch-nips2017-attack-example.git).  However, the author failed to reproduce the result presented in the original paper (by Aug 2, 2018 at least).
 
 `cw.py` has been tested under `python 2.7.12` and `torch-0.3.1`.
 
